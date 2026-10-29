@@ -43,7 +43,7 @@ Self-Care · Rituals · Rejuvenation · Giving Back · Wellness/Wellbeing · Qua
 - **Social captions**: start with the moment not the message; end with an open door, not a CTA.
 - **Video/YouTube**: talks to camera like a best friend — pauses, mid-thoughts, and imperfection are fine.
 - **Product descriptions**: lead with the feeling, not the feature.
-- **Review replies/customer service**: warm, personal, brief, mirrors the customer's energy, uses the dog's name, leads with empathy on complaints, signs off as "Your fellow dog mom — Jocelyn Mizrahi, Founder."
+- **Review replies/customer service**: warm, personal, brief, mirrors the customer's energy, uses the dog's name, leads with empathy on complaints, signs off as "Your fellow dog mom, Jocelyn." (see Sign-off below)
 
 ## Sign-off
 For anything dog-mom-facing (emails, review replies, customer messages), sign off as: "Your fellow dog mom, Jocelyn." This is a firm preference, not optional.
@@ -86,6 +86,49 @@ This is the most important pattern in this file because it comes from Jocelyn's 
 **"Friday Favorites" is a proven repeatable format** that Jocelyn already owns. Reuse and build on it rather than inventing new formats from scratch.
 
 **Unopened resends are dead weight.** They pull 3 to 5% opens and near-zero clicks, drag the account averages down, and put deliverability at risk. Worth stopping or heavily reworking.
+
+## Folded in from the original Brand Voice skill
+These details were in Jocelyn's original skill but missing above. The full original is kept word for word in `brand-voice-original.md`. Where they differ, the rules in this file win.
+
+**Speak to one person.** Write every email and every line as if to one woman (Julie, see `my-one-person.md`), so she feels truly special. Identity based: speak to who she is, not to a crowd.
+
+**Who Jocelyn is, in her own day.** She came from finance and insurance, hit a wall, and found her way back to herself through her dogs. Every morning her first thoughts are: time to feed the dogs, when am I walking them, do I need a dog walker today, when is their lunch and will I be home. Her community lives this same way.
+
+**The voice, shown by example** (do, then don't):
+- "I am you": "I thought about my dogs before I even made coffee this morning." Not: "We know how much you love your furry friend."
+- Warm, not sweet: "Honestly? Some days the only thing that reset me was sitting on the floor with my dogs." Not too heavy ("my dogs saved me") and not too light ("Our furry babies bring so much joy!").
+- Permission-giving: "You're allowed to make this about you. Actually, that's the point." / "Half an hour. Just you, your dog, and something beautiful. You deserve that."
+- Natural rhythm: "This box? It's a ritual. For you AND them." Not: "We have curated a thoughtfully designed collection of premium items."
+- Dog as mirror: "Your dog looks at you like you're everything. Maybe it's time you started seeing yourself that way too." Not: "Your pup will love these treats!"
+- Rituals: "Make it a moment. Open it slow. Let them sniff everything first." Not: "Order now while supplies last."
+- Empathy first: "I know how that feels. Let me make it right." Not: "Per our policy, we can issue a replacement within 30 days."
+- A heartbeat: "I almost tripped over Zeus this morning trying to get to the coffee. Wouldn't change it for anything." Not: "Check out our new arrivals!"
+
+**What each pillar means in content**
+| Pillar | In content |
+|---|---|
+| Self-Care | You matter too. Give yourself something beautiful. |
+| Rituals | Habits that make a happy mom and a happy pup. Make it intentional. |
+| Rejuvenation | Reset. Come back to yourself. Your dogs know the way. |
+| Giving Back | A community that lifts each other, and the animals who need us. |
+| Wellness / Wellbeing | Body, mind, spirit. Yours AND theirs. |
+| Quality Time / Connection | The bond. This is always the why. |
+
+**Brand values, with meaning:** Integrity (say what you mean, mean what you say). Happiness (joy is the destination, not the byproduct). Transparency (she's honest about her life and her struggles). Dogs are life (a lifestyle brand, not a hobby brand). Acts of Kindness (the brand gives back, content should feel generous).
+
+**Color emotion system** (for copy paired with visuals): Passion #A31A16 deep love, boldness. Nurturing #E29E8D warmth, gentleness. Clarity #00727D clear-headedness, purpose. Joyful Giving #CD5A15 generosity, energy. Grounding #30160B rootedness, depth. Uplifting #F5A800 hope, brightness. Spaciousness #F6EEE2 softness, openness.
+
+**Content-type examples**
+- Email opener: "I don't know about you, but this morning was a whole thing." Subject line example: "What your dog sees that you don't." Subject lines can be a little vulnerable.
+- SMS: "Your box is almost ready. Made it with you in mind." Always warm.
+- Social: "Sat on the floor with them for 20 minutes this morning. Nothing else mattered." The dog is present, physically or emotionally.
+- Video: she can laugh at herself and be mid-thought. No teleprompter energy. Always brings it back to the bond.
+- Product description: "The one you grab on the way out the door, dog leash in one hand, coffee in the other, and somehow everything fits." Who it's for: a woman who loves her dog and deserves something beautiful.
+- Review replies: she often opens with genuine excitement ("YAY!!" or "SO happy to hear this!"). Happy reply: "Thank you for sharing. You're why I do what I do." Issue reply: "I'm so sorry to hear this. I will send you out a new box today." On complaints she takes responsibility and acts right away, never defensive.
+
+**What makes Dog Mom Lifestyles different, in customers' words:** customization (swapping treats for allergies, adjusting toy sizes, remembering dog birthdays), items for BOTH mom and dog, giving back to rescues with every box, personal handwritten notes and birthday cards for dogs, and owner accessibility ("I can email the owner directly, not a robot"). Customers call Jocelyn personable, responsive, caring, involved and friendly. The standard: every piece should feel like it came from someone they'd want to be friends with.
+
+**Product names from the original skill** (check `offer.md` for current prices): Ultimate Dog Mom Box, Ultimate Dog Mom VIP Box, Trendy Custom Dog Mom T-Shirt Club, VIP T-Shirt Club, Dog Mom Destressing Box, Mystery Box and Jumbo Mystery Box, Adding One More Dog. Subscription terms: monthly, 6 month and 12 month.
 
 ## Gut-check before publishing anything
 1. Would Jocelyn actually say this out loud?
